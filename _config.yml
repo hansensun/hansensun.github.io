@@ -10,13 +10,13 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Hansen Sun # add your name
-author-img: hansen.jpg # add your photo
+author-img: hansen.png # add your photo
 about-author: Policy Analyst, Economist, Marathoner. Cal Golden Bear and Yale Bulldog. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: hansensun # add your Github handle
-social-linkedin: www.linkedin.com/in/hansensun# add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: www.linkedin.com/in/hansensun
+social-email: hansensun@gmail.com
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
